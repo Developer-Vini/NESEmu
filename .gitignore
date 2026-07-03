@@ -1,0 +1,16 @@
+# Compilados
+*.o
+*.dll
+
+# ROMs e arquivos binários
+*.nes
+*.rar
+Roms/
+
+# Testes
+cpu_test.c
+cpu_test.exe
+
+# Build
+build/
+*.dSYM/
