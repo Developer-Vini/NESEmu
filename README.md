@@ -3,10 +3,12 @@
 Emulador de Nintendo Entertainment System (NES) escrito em C com SDL2.
 ## Fotos
 
-
-
-
-## Funcionalidades
+![Screenshot 1](screenshots/Screenshot_1.png)
+![Screenshot 2](screenshots/Screenshot_2.png)
+![Screenshot 3](screenshots/Screenshot_3.png)
+![Screenshot 4](screenshots/Screenshot_4.png)
+![Screenshot 5](screenshots/Screenshot_5.png)
+![Screenshot 6](screenshots/Screenshot_6.png)## Funcionalidades
 
 - CPU 6502 completa com todos os modos de endereçamento
 - PPU com renderização de fundo e sprites
