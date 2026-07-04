@@ -17,7 +17,6 @@ Emulador de Nintendo Entertainment System desenvolvido em C com SDL2.
 
 </div>
 
-
 ---
 
 ## Visão Geral
